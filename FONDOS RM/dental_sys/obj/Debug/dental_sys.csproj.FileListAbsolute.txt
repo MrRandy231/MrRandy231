@@ -1,0 +1,50 @@
+C:\Users\root17\source\repos\dental_sys\dental_sys\bin\Debug\dental_sys.exe.config
+C:\Users\root17\source\repos\dental_sys\dental_sys\bin\Debug\dental_sys.exe
+C:\Users\root17\source\repos\dental_sys\dental_sys\bin\Debug\dental_sys.pdb
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.csprojAssemblyReference.cache
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Form1.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Properties.Resources.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.csproj.GenerateResource.cache
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.csproj.CoreCompileInputs.cache
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.csproj.CopyComplete
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.exe
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.pdb
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Loading.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Principal.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Dashboard.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Patient.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Messages.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\bin\Debug\dental_sys.exe.config
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\bin\Debug\dental_sys.exe
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\bin\Debug\dental_sys.pdb
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.csproj.AssemblyReference.cache
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Dashboard.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Form1.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Loading.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Messages.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Patient.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Principal.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Properties.Resources.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.csproj.GenerateResource.cache
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.csproj.CoreCompileInputs.cache
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.csproj.CopyComplete
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.exe
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.pdb
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\bin\Debug\dental_sys.exe.config
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\bin\Debug\dental_sys.exe
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\bin\Debug\dental_sys.pdb
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.csproj.AssemblyReference.cache
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.Dashboard.resources
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.Form1.resources
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.Loading.resources
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.Messages.resources
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.Patient.resources
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.Principal.resources
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.Properties.Resources.resources
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.csproj.GenerateResource.cache
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.csproj.CoreCompileInputs.cache
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.csproj.CopyComplete
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.exe
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\DISEÑO CENTRADO EN EL USUARIO\FUNDACION RM\dental_sys\obj\Debug\dental_sys.pdb

@@ -1,0 +1,11 @@
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\RMFund_sys.csproj.AssemblyReference.cache
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\RMFund_sys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Dashboard.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Form1.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Loading.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Messages.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Patient.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\dental_sys.Principal.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\RMFund_sys.Properties.Resources.resources
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\RMFund_sys.csproj.GenerateResource.cache
+C:\Users\Randy Mota\Desktop\dental-system-c-ui-design-main\dental_sys\obj\Debug\RMFund_sys.csproj.CoreCompileInputs.cache
